@@ -1,4 +1,4 @@
 CC = gcc
 
-01-2: main.c
+02-2: main.c
 	$(CC) $^ -o $@
